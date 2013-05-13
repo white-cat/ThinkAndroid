@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, TestAndroidActivity!</string>
+    <string name="app_name">ThinkAndroid Demo</string>
+    <string name="app_describe">非常感谢您们的支持！我们共同学习！                     网址：http://www.thinkandroid.cn。qq群：169415162</string>
+    <!-- activity标题 -->
+    <string name="thinkandroid_main_title">ThinkAndroid Main</string>
+    <string name="thinkandroid_db_title">ThinkAndroid 数据库操作模块</string>
+    <string name="thinkandroid_cache_title">ThinkAndroid 缓存模块</string>
+    <string name="thinkandroid_image_cache_title">ThinkAndroid 图片缓存模块</string>
+    <string name="thinkandroid_mvc_title">ThinkAndroid MVC模块</string>
+    <string name="thinkandroid_http_title">ThinkAndroid Http模块</string>
+    <string name="thinkandroid_download_title">ThinkAndroid 下载器模块模块</string>
+    <string name="thinkandroid_simple_download_title">ThinkAndroid 第一种简单模块模块</string>
+    <string name="thinkandroid_simple_two_download_title">ThinkAndroid 第二种简单模块模块</string>
+    <string name="thinkandroid_test_other_title">几个简单的工具</string>
+    <!-- thinkandroid_main -->
+    <string name="test_db">数据库模块</string>
+    <string name="test_cache">缓存模块</string>
+    <string name="test_image_cache">图片缓存模块</string>
+    <string name="test_mvc">MVC模块</string>
+    <string name="test_http">http模块</string>
+    <string name="test_download">下载器模块</string>
+    <string name="test_other">测试其他工具</string>
+    <string name="exit_app">退出应用程序</string>
+
+    <!-- thinkandroiddb -->
+    <string name="insert_data">插入数据</string>
+    <string name="delete_data">删除数据</string>
+    <string name="update_data">更新数据</string>
+    <string name="select_data">查询数据</string>
+    <string name="show_data">显示数据</string>
+    <!-- test_simple_down -->
+    <string name="test_simple_down">单线程 简单下载器之一</string>
+    <string name="test_simple_down_two">单线程 简单下载器之二</string>
+    <string name="test_multi_thread_down">多线程下载</string>
+
+    <!-- thinkandroidother -->
+    <string name="test_configure">测试配置器</string>
+    <string name="test_resoperate">测试资源读取</string>
+    <string name="test_comparator">测试任意对象比较器</string>
+
+</resources>

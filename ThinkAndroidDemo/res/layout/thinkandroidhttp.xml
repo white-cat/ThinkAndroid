@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/syn_get_button"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="httpGet同步" />
+
+    <Button
+        android:id="@+id/asyn_get_button"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="httpGet异步" />
+
+    <Button
+        android:id="@+id/syn_post_button"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="httpPost同步" />
+
+    <Button
+        android:id="@+id/asyn_post_button"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="httpPost异步" />
+
+    <Button
+        android:id="@+id/clear_button"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="清除webView" />
+
+    <WebView
+        android:id="@+id/show_return"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

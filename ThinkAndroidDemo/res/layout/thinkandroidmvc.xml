@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/show_button"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="单击解析" />
+
+    <TextView
+        android:id="@+id/show_return"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/show_data" />
+
+</LinearLayout>
