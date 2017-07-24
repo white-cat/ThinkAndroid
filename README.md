@@ -1,5 +1,5 @@
 该项目已经暂停维护：需要 Java web快速开发框架可以关注我的们的项目
-[JEEWEB快速开发平台](https://github.com/white-cat/jeeweb)
+[JEEWEB快速开发平台](https://github.com/white-cat/jeeweb-mybatis)
 
 
 
